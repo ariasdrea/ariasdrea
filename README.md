@@ -4,8 +4,6 @@
 
 ## Hello there, I'm Andrea 🐣
 
----
-
 ### I'm a JavaScript Developer with a special love for design.
 
 -   👩‍🏫 I’m currently working as - a full-stack teacher at an [awesome coding bootcamp](https://www.spiced-academy.com/en) in Berlin, Germany
