@@ -1,7 +1,3 @@
-![aa-logo](/assets/banner.png)
-
-<br/>
-
 ## Hello there, I'm Andrea 🐣
 
 ### I'm a JavaScript Developer with a special love for design.
