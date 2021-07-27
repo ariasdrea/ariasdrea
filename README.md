@@ -3,7 +3,7 @@
 ### I'm a JavaScript Developer with a special love for design.
 
 -   👩‍🏫 I’m currently working as - a full-stack teacher at an [awesome coding bootcamp](https://www.spiced-academy.com/en) in Berlin, Germany
--   🌱 I’m currently learning - more about TypeScript
+-   🌱 I’m currently learning - more about TypeScript 👀
 -   💬 Ask me about - finding a great spot to eat in Berlin 🍝
 -   ⚡ My current goal - reading more books and learning photography 📖 📸
 
