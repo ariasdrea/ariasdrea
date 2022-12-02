@@ -1,4 +1,4 @@
-## Hello there, I'm Andrea 🐣
+## Hi there, I'm Andrea 👋🐣
 
 ### I'm a JavaScript Developer with a special love for design.
 
