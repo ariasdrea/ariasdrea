@@ -2,7 +2,7 @@
 
 ### I'm a JavaScript Developer with a special love for design.
 
--   👩‍💻 I’m currently working as - a Frontend Engineer at [Heyflow](https://www.heyflow.app) 💙
+-   👩‍💻 I’m currently working as - a Fullstack Engineer at [Heyflow](https://www.heyflow.app) 💙
 -   💬 Ask me about - finding a great spot to eat in Berlin 🍝
 -   ⚡️ My current goal - reading more books and learning photography 📖 📸
 
